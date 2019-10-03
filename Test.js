@@ -1,3 +1,4 @@
 function Test(){
-    console.log
+    console.log('Test file');
+    console.log('Khang');
 }
